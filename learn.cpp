@@ -6,6 +6,7 @@ using ll = long long;
 void solve()
 {
   cout<<"Learn Git";
+  cout<<"1st modification";
 }
 int main() {
   ios_base::sync_with_stdio(false);
